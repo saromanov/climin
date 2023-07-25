@@ -1,3 +1,4 @@
 numpydoc>=0.4
 numpy>=1.5
 scipy>=0.11.0
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
